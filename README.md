@@ -40,7 +40,7 @@ api:
 
 ### views folder
 
-- Contacts all your pages. Any you add just remember to updated your index.php with a "route" aka switch case
+- Contains all your pages. Any you add just remember to updated your index.php with a "route" aka switch case
 
 ### views/templates folders
 
