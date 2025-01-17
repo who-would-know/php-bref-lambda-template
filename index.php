@@ -23,9 +23,9 @@ switch ($request) {
         require __DIR__ . $viewDir . 'contact.php';
         break;
 
-    case '/css/style.css':
-        require __DIR__ . $publicDir . '/css' . '/style.css';
-        break;
+        // case '/css/style.css':
+        //     require __DIR__ . $publicDir . '/css' . '/style.css';
+        //     break;
 
     default:
         http_response_code(404);

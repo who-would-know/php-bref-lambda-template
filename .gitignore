@@ -1,3 +1,4 @@
 vendor/
 .serverless/
 .env
+node_modules/
